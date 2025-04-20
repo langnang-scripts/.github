@@ -12,6 +12,9 @@
 -->
 
 - bat
+  - ffmpeg
+  - git
+  - vscode
   - windows
 - composer
 - html
