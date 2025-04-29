@@ -27,3 +27,6 @@
 - [ ] `make`
 - [ ] `create`
 - [ ] `open`
+- [ ] `compare` 比对、比较
+- [ ] `diff` 
+- [ ] `merge` 合并
