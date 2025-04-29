@@ -18,4 +18,12 @@
 - [ ] `backup` 备份
 - [ ] `clean`
 - [ ] `clear`
-- [ ] `list`
+- [ ] `list` 命令列表、文件列表
+- [ ] `migrate` 迁移
+- [ ] `rename` 重命名
+- [ ] `move`
+- [ ] `copy`
+- [ ] `delete`
+- [ ] `make`
+- [ ] `create`
+- [ ] `open`
