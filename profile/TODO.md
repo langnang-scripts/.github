@@ -22,12 +22,12 @@
 - [ ] `migrate` 迁移
 - [ ] `rename` 重命名
 - [ ] `move`
+- [ ] `help`
 - [ ] `copy`
 - [ ] `delete`
 - [ ] `make`
 - [ ] `create`
 - [ ] `open`
-- [ ] `compare` 比对、比较
-- [ ] `diff` 
+- [ ] `diff` 比对、比较
 - [ ] `merge` 合并
-- [ ] `info`
+- [ ] `info` 信息
