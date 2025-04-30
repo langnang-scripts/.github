@@ -21,11 +21,14 @@
 - [ ] `list` 命令列表、文件列表
 - [ ] `migrate` 迁移
 - [ ] `rename` 重命名
-- [ ] `move`
+- [ ] `move` 移动
 - [ ] `help`
-- [ ] `copy`
-- [ ] `delete`
-- [ ] `make`
+- [ ] `copy` 复制
+- [ ] `delete` 删除
+- [ ] `make` 创建
+  - [ ] `make:dir`
+  - [ ] `make:file`
+  - [ ] `make:lnk`
 - [ ] `create`
 - [ ] `open`
 - [ ] `diff` 比对、比较
