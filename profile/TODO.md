@@ -35,3 +35,4 @@
 - [ ] `merge` 合并
 - [ ] `info` 信息
 - [ ] `watch` 监听
+- [ ] `fileinfo` 文件信息
